@@ -1,0 +1,16 @@
+{
+  "name": "sp1soft",
+  "version": "1.0.0",
+  "description": "sp1soft homepage",
+  "main": "web.js",
+  "scripts": {
+    "start": "node ./web.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "latest",
+    "express": "^4.18.0",
+    "jquery": "^3.6.0"
+  }
+}
